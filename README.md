@@ -3,8 +3,8 @@
 ## Preview
 
 <p align="center">
-   <img src="./src/readmeIMG/Captura de tela de 2020-10-24 02-24-24.png" alt="Nihongo" width="200"/>
-    <img src="./src/readmeIMG/Captura de tela de 2020-10-25 00-21-26.png" alt="Nihongo" width="200"/>
+   <img src="./src/readmeIMG/Captura de tela de 2020-10-24 02-24-24.png" alt="Nihongo" width="320"/>
+    <img src="./src/readmeIMG/Captura de tela de 2020-10-25 00-21-26.png" alt="Nihongo" width="320"/>
      </p>
 
 ## Sobre o Conversor
