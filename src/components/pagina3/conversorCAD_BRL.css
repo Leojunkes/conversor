@@ -1,0 +1,44 @@
+.conversor2{
+    background-color:#6362BD;
+    max-width: 400px;
+    height: max-content;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.85);
+    padding: 20px;
+    justify-content: space-between;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+    
+
+}
+.container{
+    background-color: #bebfc1;
+    height:100vh;
+   
+}
+.txtH2{
+    text-align: center;
+    padding-top: 90px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.55);
+}
+.buttonMenu1{
+    margin-top: 10px;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+    background-color:#6362BD;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.45);
+    color:black;
+   
+}
+.containerButton1{
+    margin: auto;
+    height: 50px;
+    width: 100px;
+    
+    
+}

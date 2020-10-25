@@ -1,0 +1,59 @@
+main{
+    background-color: #c0c1bf;
+    height:98vh;
+}
+.containerGeral{
+    background-color:#7ed2a5;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 10px;
+    flex-direction: row-reverse;
+    padding-top: 100px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.95);
+    }
+    .qualConversor{
+        text-align: center;
+        margin-top: 20px;
+        padding-top: 30px;
+        box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.55);
+    }
+.UsdButton{
+    background-color:#3a396b;
+    color: aliceblue;
+    font-size: 14px; 
+}
+.euroButton{
+    background-color: #56981C;
+    color: aliceblue;
+    font-size: 14px;
+
+}
+.cadButton{
+    color: aliceblue;
+    font-size: 14px;
+    background-color: #6362BD;
+}
+.arsButton{
+    background-color:#70a7d8;
+    color: aliceblue;
+    font-size: 14px;
+}
+.container2USD_Euro{
+    margin-bottom: 20px;
+    justify-content: space-between;
+    margin-left: 44px;
+}
+.container3CAD_EAR{
+    margin-left: 44px;
+    margin-top: 30px;
+    
+}
+button{
+    margin-left: 15px;
+    width: 140PX;
+    height: 80px;
+    border-radius: 10px;
+    cursor: pointer;
+}
