@@ -1,7 +1,10 @@
 import React from 'react';
 import './Home.css';
+import whatsLogo from './whats.png';
 
 export default function Home(props){
+    
+
     return (
         <main>
             <h2 className="qualConversor">Qual conversor você deseja?</h2>
@@ -27,7 +30,14 @@ export default function Home(props){
                 </div>
                 
                 </div>
-            
+                
+                    <div className="containerWhats">
+                        <a  href="https://web.whatsapp.com/send?phone=5548999311384" target="_blank">
+                         <img className="logoWhats"  src={whatsLogo}/>   
+                        </a>
+                        <p className="criadoText">Criado por LeoJunkes</p>
+                    </div>
+                    
         </main>
     )
 }
